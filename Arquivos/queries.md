@@ -14,3 +14,26 @@
 |03-06-2022|1.0|
 
 ## Primeiras Queries 🎲
+
+entidade: areasolicitante
+
+```
+ select
+        u.nmuser as Nome,
+        dp.nmdepartment,
+        dp.CDDEPartment as CDDEPartment ,
+        p.nmposition as Funcaao 
+    from
+        aduser u,
+        ADUSERDEPTPOS d,
+        adposition p ,
+        addepartment dp 
+    where
+        d.cduser = u.cduser 
+        and d.fgdefaultdeptpos = 1 
+        and u.fguserenabled = 1 
+        and dp.cddepartment = d.cddepartment 
+        and p.cdposition = d.cdposition 
+        and u.idlogin = :loginUser
+
+```
