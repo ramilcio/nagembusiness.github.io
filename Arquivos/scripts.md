@@ -30,7 +30,29 @@
 ```
 x = QUERYEXECUTE('areasolicitante';'ImpAreaSoliciante=nmdepartment')
 ```
+> ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: [Nome do Formulário]
+- Fieldset: Área do solicitante
+- Botão   : Cancelar Solicitação
+- descrição de comportamento: Seguindo a mesma lógica do (Carregar área solicitante), esse script é referente para sempre que houver a necessidade de cancelar a solicitação, lembrando que por se tratar de uma plataforma low-code não se assuste caso fique confuso de como entender a lógica para escrever tal script, isso muitas vezes é gerado "automaticamente" após cliques de botão. 
+
+```
+x = ACAOGRUPO('DadosdoSolicitante';'Desabilitar,Não requerido,Ocultar';'')
+x = ACAOITEMGRAFICO('DadosdoSolicitante';'Ocultar,Desabilitar';'')
+
+x = ACAOGRUPO('Mecanica';'Desabilitar,Não requerido,Ocultar';'')
+x = ACAOITEMGRAFICO('Mecanica';'Ocultar,Desabilitar';'')
+
+x = ACAOGRUPO('Anexo';'Desabilitar,Não requerido,Ocultar';'')
+x = ACAOITEMGRAFICO('Anexo';'Ocultar,Desabilitar';'')
+
+x = ACAOGRUPO('TratativaInterna';'Desabilitar,Não requerido,Ocultar';'')
+x = ACAOITEMGRAFICO('TratativaInterna';'Ocultar,Desabilitar';'')
+```
+
+> ---------------------------------------------------------------------------------------------------------------
+> 
 
 
 
