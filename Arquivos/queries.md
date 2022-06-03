@@ -18,8 +18,8 @@
 > ------------------------------------------------------------------------------------------
 
 
-Entidade: areasolicitante
-Descrição de funcionamento: A respectiva query é referente (com base nas tabelas pré moldadas da Soft Expert) retorna o nome do usuário, nome do departamento, Código Departamento e função
+- Entidade: areasolicitante
+- Descrição de funcionamento: A respectiva query é referente (com base nas tabelas pré moldadas da Soft Expert) retorna o nome do usuário, nome do departamento, Código Departamento e função
 
 ```
  select
@@ -42,8 +42,8 @@ Descrição de funcionamento: A respectiva query é referente (com base nas tabe
 ```
 > ------------------------------------------------------------------------------------------
 
-Entidade: User
-Descrição de funcionamento: A respectiva query é [continue]
+- Entidade: User
+- Descrição de funcionamento: A respectiva query é [continue]
 
 ```
 SELECT
