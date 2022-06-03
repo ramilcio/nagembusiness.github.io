@@ -82,7 +82,8 @@ x = EXECUTESQL(vSQL2;vArmazenar2)
 ```
                                 ...::: Nome Solicitante :::...
 
-vNomeSolicitante = FIGURASOLICITANTE('Usuário';'Nome') // INICIADOR('Nome')
+// INICIADOR('Nome')
+vNomeSolicitante = FIGURASOLICITANTE('Usuário';'Nome') 
 //Preenche o Nome do Solicitante no Formulário
 X = ACAO('';'';'';'';'';'';'';'';'nmsolicitante';vNomeSolicitante)
           
@@ -90,7 +91,8 @@ X = ACAO('';'';'';'';'';'';'';'';'nmsolicitante';vNomeSolicitante)
 
                                 ...::: Área do Solicitante :::...
 
-vLoginSolicitante = FIGURASOLICITANTE('Usuário';'Login') //INICIADOR('Matrícula')
+//INICIADOR('Matrícula')
+vLoginSolicitante = FIGURASOLICITANTE('Usuário';'Login') 
 
 //Redefinir Login para o Solicitante
 x = ACAO('';'';'';'';'';'';'';'';'logisolicitante';vLoginSolicitante)
