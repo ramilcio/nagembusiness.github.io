@@ -52,7 +52,28 @@ x = ACAOITEMGRAFICO('TratativaInterna';'Ocultar,Desabilitar';'')
 ```
 
 > ---------------------------------------------------------------------------------------------------------------
-> 
+
+- Formulário: [Nome do Formulário]
+- Fieldset: Área do Solicitante
+- Botão   : Carregar Área Superior
+- descrição de comportamento: Tal script retorna e carrega todas as informações dos campos que vem na área superior, a diferença para o primeiro script é que esse script faz a chamada do banco referente a área o qual o usuário (solicitante) pertence, enquanto que o primeiro script só executa a query antes de fazer tal chamada no banco.
+
+```    
+// Cada usuário precisa pertencer a uma área, então aqui tal usuário será referenciado pela sua respectiva área.
+vArea = VALORCAMPO('src';'area')
+
+//Define consulta SQL
+vSQL2 = "select dpp.nmdepartment from addepartment dp join addepartment dpp on dpp.iddepartment = left(dp.iddepartment,3) where dp.nmdepartment like '%" + vArea + "%'" 
+
+//Define associação do campo SQL para Componente do Formulárrio
+vArmazenar2 = 'inpAreaSuperiorSolicitante = nmdepartment'
+
+//Executa o SQL
+x = EXECUTESQL(vSQL2;vArmazenar2)
+```
+
+
+
 
 
 
