@@ -1,8 +1,8 @@
-# Scripts lógicos do componente Formulário - Nagem Expert
+# Scripts lógicos do componente Formulário - Nagem Expert 
 
 > <p> Aqui nessa área você irá compreender um pouco melhor sobre os scripts que são de certa forma padronizados e utilizados na construção dos formulários. </p>
 
-## Informações de identificação
+## Informações de identificação 
 | Equipe   |      Cargo      |
 |----------|:-------------:|
 | Rodrigo Firmino |  Product Owner |
@@ -72,6 +72,35 @@ vArmazenar2 = 'inpAreaSuperiorSolicitante = nmdepartment'
 x = EXECUTESQL(vSQL2;vArmazenar2)
 ```
 
+> ---------------------------------------------------------------------------------------------------------------
+
+- Formulário: [Nome do Formulário]
+- Fieldset: Área do Solicitante
+- Botão   : Atualiza Dados do Solicitante
+- descrição de comportamento: De forma auto explicativa, aqui serão carregados e atualizados os dados tanto do nome do solicitante quanto a área do solicitante, caso no meio dos processos seja necessário tal ação.
+
+```
+                                ...::: Nome Solicitante :::...
+
+vNomeSolicitante = FIGURASOLICITANTE('Usuário';'Nome') // INICIADOR('Nome')
+//Preenche o Nome do Solicitante no Formulário
+X = ACAO('';'';'';'';'';'';'';'';'nmsolicitante';vNomeSolicitante)
+          
+
+
+                                ...::: Área do Solicitante :::...
+
+vLoginSolicitante = FIGURASOLICITANTE('Usuário';'Login') //INICIADOR('Matrícula')
+
+//Redefinir Login para o Solicitante
+x = ACAO('';'';'';'';'';'';'';'';'logisolicitante';vLoginSolicitante)
+x = QUERYEXECUTE('areasolicitante';'ImpAreaSoliciante=nmdepartment')
+
+
+
+                  ...::: Área do Solicitante Superior (Área de Negócio) :::...
+x = EXECUTESCRIPT('BTNCarregarAreaSuperior';'Clique')
+```
 
 
 
