@@ -1,4 +1,4 @@
-# Seja bem vindo(a) colaborador(a) Nagem
+# Seja bem vindo(a) colaborador(a) Nagem 🎉 👨‍💻👩‍💻
 
 ## Uma breve explicação sobre o que você colaborador(a) irá encontrar nesse repositório, em resumo, as queries e scripts padrões utilizados na construção dos formulários 
 ## Primeiro vamos fazer uma apresentação sobre o que é a ferramenta Nagem Expert, que é apenas uma variação do nome da ferramenta oficial que se chama Soft Expert
