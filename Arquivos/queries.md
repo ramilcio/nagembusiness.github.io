@@ -15,7 +15,11 @@
 
 ## Primeiras Queries 🎲
 
-entidade: areasolicitante
+> ------------------------------------------------------------------------------------------
+
+
+Entidade: areasolicitante
+Descrição de funcionamento: A respectiva query é referente (com base nas tabelas pré moldadas da Soft Expert) retorna o nome do usuário, nome do departamento, Código Departamento e função
 
 ```
  select
@@ -35,5 +39,16 @@ entidade: areasolicitante
         and dp.cddepartment = d.cddepartment 
         and p.cdposition = d.cdposition 
         and u.idlogin = :loginUser
+```
+> ------------------------------------------------------------------------------------------
+
+Entidade: User
+Descrição de funcionamento: A respectiva query é [continue]
 
 ```
+SELECT
+    NMUSER
+FROM
+    ADUSER  
+```
+
