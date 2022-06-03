@@ -43,7 +43,7 @@
 > ------------------------------------------------------------------------------------------
 
 - Entidade: User
-- Descrição de funcionamento: A respectiva query é [continue]
+- Descrição de funcionamento: A respectiva query é [continuar a descrição]
 
 ```
 SELECT
