@@ -104,17 +104,21 @@ x = QUERYEXECUTE('areasolicitante';'ImpAreaSoliciante=nmdepartment')
 x = EXECUTESCRIPT('BTNCarregarAreaSuperior';'Clique')
 ```
 
+> ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: CadastroMaterialConsumoRequisicao Solicitação de Cadastro de Material para Consumo - Requisição
+- Fieldset: Área do Solicitante
+- Botão   : Solicitante - Ação: Cancelar Processo
+- descrição de comportamento: De forma auto explicativa, aqui serão carregados e atualizados os dados tanto do nome do solicitante quanto a área do solicitante, caso no meio dos processos seja necessário tal ação.
 
+```
+// Método botão Solicitante - Ação: Cancelar Processo - btnAcaoCancelarProcesso
 
+x=ACAOGRUPO('fsDadosGerais';'Desabilitar,Não requerido,Exibir';'')
 
-
-
-
-
-
-
-
+x=ACAO('';'validgridempres';'';'validgridempres';'';'validgridempres';'';'';'')
+```
+> ---------------------------------------------------------------------------------------------------------------
 
 
 
