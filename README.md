@@ -1,4 +1,5 @@
-# Seja bem vindo(a) colaborador(a) Nagem 🎉 👨‍💻👩‍💻
+# Dale!!! 
+# Seja bem vindo(a), independente se voce é da turma de lampião ou maria bonita 🎉 👨‍💻👩‍💻
 
 ## Uma breve explicação sobre o que você colaborador(a) irá encontrar nesse repositório, em resumo, as queries e scripts padrões utilizados na construção dos formulários 
 
