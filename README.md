@@ -14,7 +14,7 @@
 
 ## Sem mais conversa, Hands on!!! ☕
 
-### Mas antes vamos ver como chegar até esse tal componente.
+### Mas antes vamos ver como chegar até esses tais componentes!
 <br>
 
 <p align="center">
