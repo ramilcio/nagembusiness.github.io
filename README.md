@@ -3,13 +3,13 @@
 # Dale bença, chega mais!!!! 🎉👨‍💻👩‍💻
 # Fique à Vontade, Fique Nagem. 😁✌️
 
-# Seja bem vindo(a), independente se voce é da turma de lampião ou maria bonita.
+# Indepentende se voce é do time da pizza com ketchup ou sem ketchup, ou do arroz com passas ou sem passas, Seja bem vindo(a)!!   !
 
 ## Vamo simbora para uma breve explicação sobre o que tu mermo irá encontrar nesse repositório, mas resumindo é uma documentação focada e enxuta sobre o uso dos componentes e as queries e scripts padrões utilizados para criar as instancias.
 
 #### Sabendo que aqui você irá encontrar as Queries e Scripts que possuem um padrão de utilização dentro das demandas da célula de negócios, saiba que isso tem como função primordial, te ajudar para que sua curva de aprendizado seja a menor possível, no entanto vá estudando e praticando o uso desses Scripts e Queries de acordo com seu ritmo. Ainda falando sobre os principais componentes que nossa célula de TI-Desenvolvimento e Negócios utiliza são: Formulários, Documentos, processo e Workflow. Vamos falar de forma resumida sobre cada uma delas e um passo a passo geral na construção de cada instância delas,   
 
-#### Sempre lembra visse, que esses componentes eles "podem conversar" um com os outros então o intuito é deixar as informações bem "amarradas", beleza?! 
+#### Sempre lembra visse, que esses componentes "podem conversar" um com os outros então o intuito é deixar as informações bem "amarradas" entre os componentes, beleza?! tamo junto! 
 ------------------------------------------------------------------------
 
 ## Sem mais conversa, Hands on!!! ☕
@@ -39,3 +39,6 @@
 ------------------------------------------------------------------------
 
 
+<p align="center">
+    Chegasse aqui nessa tela?! blz, vamos nos desesperar com calma agora! 😱
+</p>
