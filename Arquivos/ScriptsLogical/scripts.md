@@ -1,4 +1,4 @@
-# Scripts lógicos do componente Formulário - Nagem Expert 
+# Scripts lógicos do componente Formulário - Nagem Expert 💻
 
 > <p> Aqui nessa área você irá compreender um pouco melhor sobre os scripts que são de certa forma padronizados e utilizados na construção dos formulários. </p>
 
@@ -13,7 +13,7 @@
 |----------|:-------------:|
 |03-06-2022|1.0|
 
-## Primeiros Scripts 🖥️
+## Primeiros Scripts 
 
 ### Padrão de exibição dos respectivos scripts
 - Formulário: [Nome do Formulário]
