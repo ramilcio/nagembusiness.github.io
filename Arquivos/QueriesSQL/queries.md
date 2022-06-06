@@ -19,7 +19,7 @@
 
 
 - Entidade: areasolicitante
-- Descrição de funcionamento: A respectiva query é referente (com base nas tabelas pré moldadas da Soft Expert) retorna o nome do usuário, nome do departamento, Código Departamento e função
+- Descrição de comportamento: A respectiva query é referente (com base nas tabelas pré moldadas da Soft Expert) retorna o nome do usuário, nome do departamento, Código Departamento e função
 
 ```
  select
@@ -43,7 +43,7 @@
 > ------------------------------------------------------------------------------------------
 
 - Entidade: User
-- Descrição de funcionamento: A respectiva query é uma consulta simples, que irá retornar o nome do usuário a partir da tabela "ADUSER"
+- Descrição de comportamento: A respectiva query é uma consulta simples, que irá retornar o nome do usuário a partir da tabela "ADUSER"
 
 ```
 SELECT
@@ -51,4 +51,3 @@ SELECT
 FROM
     ADUSER  -- Nome da tabela que esses tais nomes estão sendo buscados.
 ```
-> De forma resumida a query aqui está retornando a consulta do nome dos usuários que estão na tabela "ADUSER", lembrando que essas tabelas tem os nomes já pré-moldados na plataforma
