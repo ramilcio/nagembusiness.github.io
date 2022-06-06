@@ -42,3 +42,13 @@
 <p align="center">
     Chegasse aqui nessa tela?! blz, vamos nos desesperar com calma agora! 😱
 </p>
+
+<p align = "center">
+    ⚠️⚠️ A partir daqui você vai ter que selecionar e atuar dentro dos componentes ⚠️⚠️
+</p>
+
+<p align = "center">
+    💡💡 Componentes esses: Configuração, Administração, Formulário, Documentos, Processo, Wofkflow 💡💡
+</p>
+
+
