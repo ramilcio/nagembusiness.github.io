@@ -40,11 +40,12 @@
 ------------------------------------------------------------------------
 
 <p align = "center">
-    ⚠️⚠️ A partir daqui você vai ter que selecionar e atuar dentro dos componentes ⚠️⚠️
+    ⚠️⚠️ <strong> A partir daqui você vai ter que selecionar e atuar dentro dos componentes </strong> ⚠️⚠️
 </p>
 
+
 <p align = "center">
-    💡💡 Componentes esses: Configuração, Administração, Formulário, Documentos, Processo, Wofkflow 💡💡
+    💡💡 <strong> Componentes esses: Configuração, Administração, Formulário, Documentos, Processo, Wofkflow </strong> 💡💡
 </p>
 
 
