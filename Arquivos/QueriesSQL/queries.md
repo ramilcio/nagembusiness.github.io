@@ -23,10 +23,10 @@
 
 ```
  select
-        u.nmuser as Nome,
+        u.nmuser as Nome,       -- Aqui o campo está sendo renomeado de "Nome"
         dp.nmdepartment,
         dp.CDDEPartment as CDDEPartment ,
-        p.nmposition as Funcaao 
+        p.nmposition as Funcaao -- Já aqui, o campo está sendo renomeado de Funcao
     from
         aduser u,
         ADUSERDEPTPOS d,
@@ -47,8 +47,8 @@
 
 ```
 SELECT
-    NMUSER
+    NMUSER  -- Nome do campo que será retornado
 FROM
-    ADUSER  
+    ADUSER  -- Nome da tabela que esses tais nomes estão sendo buscados.
 ```
-
+> De forma resumida a query aqui está retornando a consulta do nome dos usuários que estão na tabela "ADUSER", lembrando que essas tabelas tem os nomes já pré-moldados na plataforma
