@@ -2,8 +2,9 @@
 
 # Dale bença, chega mais!!!! 🎉👨‍💻👩‍💻
 # Fique à Vontade, Fique Nagem. 😁✌️
+# Seja bem vindo(a)!!!
 
-# Indepentende se voce é do time da pizza com ketchup ou sem ketchup, ou do arroz com passas ou sem passas, Seja bem vindo(a)!!   !
+# Indepentende se voce é do time da pizza com ketchup ou sem ketchup, ou do arroz com passas ou sem passas, vamos nos desesperar com calma😱 
 
 ## Vamo simbora para uma breve explicação sobre o que tu mermo irá encontrar nesse repositório, mas resumindo é uma documentação focada e enxuta sobre o uso dos componentes e as queries e scripts padrões utilizados para criar as instancias.
 
@@ -37,11 +38,6 @@
 
 ![image](https://user-images.githubusercontent.com/95197081/172187610-7a0f6806-935f-482c-9cba-6726018a9363.png)
 ------------------------------------------------------------------------
-
-
-<p align="center">
-    Chegasse aqui nessa tela?! blz, vamos nos desesperar com calma agora! 😱
-</p>
 
 <p align = "center">
     ⚠️⚠️ A partir daqui você vai ter que selecionar e atuar dentro dos componentes ⚠️⚠️
