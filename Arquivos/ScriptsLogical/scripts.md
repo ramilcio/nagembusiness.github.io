@@ -121,9 +121,9 @@ x=ACAO('';'validgridempres';'';'validgridempres';'';'validgridempres';'';'';'')
 > ---------------------------------------------------------------------------------------------------------------
 
 - Formulário: CadastroMaterialConsumoRequisicao - Solicitação de Cadastro de Material para Consumo - Requisição
-- Fieldset: Área do Solicitante
+- Fieldset: Campos Ocultos
 - Botão   : Verificar tipo de material 
-- descrição de comportamento: 
+- descrição de comportamento: A depender da flag, os respectivos campos receberão seus comportamento, se serão ativados ou não.
 
 ```
 TpSolicitacao = VALORCAMPO('cadprodconsumo';'tpsolic')
