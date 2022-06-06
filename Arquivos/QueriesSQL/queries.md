@@ -28,10 +28,10 @@
         dp.CDDEPartment as CDDEPartment ,
         p.nmposition as Funcaao             -- Já aqui, o campo está sendo renomeado de Funcao
     from
-        aduser u,
-        ADUSERDEPTPOS d,
-        adposition p ,
-        addepartment dp 
+        aduser u,                           -- A tabela "ADUSER" está sendo renomeada apenas como a letra "u", para melhor compreensão e manipulação 
+        ADUSERDEPTPOS d,                    -- A mesma lógica usada na tabela acima, vale para a essa, tabela "ADUSERDEPTPOS" renomeada como letra "d"
+        adposition p ,                      -- Também aqui, tabela "adposition" sendo renomeada para a letra "p"
+        addepartment dp                     -- E por fim a respectiva tabela "addepartment" renomeada como "dp"
     where
         d.cduser = u.cduser 
         and d.fgdefaultdeptpos = 1 
