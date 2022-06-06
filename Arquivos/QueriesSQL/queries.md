@@ -23,10 +23,10 @@
 
 ```
  select
-        u.nmuser as Nome,       -- Aqui o campo está sendo renomeado de "Nome"
+        u.nmuser as Nome,                   -- Aqui o campo está sendo renomeado de "Nome"
         dp.nmdepartment,
         dp.CDDEPartment as CDDEPartment ,
-        p.nmposition as Funcaao -- Já aqui, o campo está sendo renomeado de Funcao
+        p.nmposition as Funcaao             -- Já aqui, o campo está sendo renomeado de Funcao
     from
         aduser u,
         ADUSERDEPTPOS d,
@@ -43,7 +43,7 @@
 > ------------------------------------------------------------------------------------------
 
 - Entidade: User
-- Descrição de funcionamento: A respectiva query é [continuar a descrição]
+- Descrição de funcionamento: A respectiva query é uma consulta simples, que irá retornar o nome do usuário a partir da tabela "ADUSER"
 
 ```
 SELECT
