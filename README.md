@@ -22,7 +22,7 @@
 
 ------------------------------------------------------------------------
 
-### Tela inicial após o acesso com sucess!
+### Tela inicial após o acesso com sucess! ✔️
 ![image](https://user-images.githubusercontent.com/95197081/172185071-3fa4770d-e42f-4215-a338-32fd7e3c569b.png)
 
 
