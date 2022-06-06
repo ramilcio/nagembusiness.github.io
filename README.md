@@ -1,12 +1,16 @@
-# Dale!!! 
-# Seja bem vindo(a), independente se voce é da turma de lampião ou maria bonita 🎉 👨‍💻👩‍💻
+![image](https://user-images.githubusercontent.com/95197081/172171762-6fd2eb61-3ebf-4cd2-8929-3d5456df7ea3.png)
 
-## Uma breve explicação sobre o que você colaborador(a) irá encontrar nesse repositório, em resumo, as queries e scripts padrões utilizados na construção dos formulários 
+# Dale bença, chega mais !!!! 🎉👨‍💻👩‍💻
+
+# Seja bem vindo(a), independente se voce é da turma de lampião ou maria bonita 
+
+## Vamo simbora para uma breve explicação sobre o que tu mermo irá encontrar nesse repositório, mas resumindo é uma documentação focada e enxuta sobre o uso dos componentes e as queries e scripts padrões utilizados para criar as instancias.
 
 ## Primeiro vamos fazer uma apresentação sobre o que é a ferramenta Nagem Expert, que é apenas uma variação do nome da ferramenta oficial que se chama Soft Expert
 
-#### Sabendo que aqui você irá encontrar as Queries e Scripts que possuem um padrão de utilização dentro das demandas da célula de negócios, saiba que isso tem como função primordial, auxiliar para que sua curva de aprendizado seja a menor possível, no entanto vá estudando e praticando o uso desses Scripts e Queries no seu ritmo. Ainda falando sobre os principais componentes que nossa célula de TI-Desenvolvimento e Negócios utiliza são: Formulários, Documentos, processo e Workflow. Vamos falar de forma resumida sobre cada uma delas e um passo a passo geral na construção de cada instância delas,   
+#### Sabendo que aqui você irá encontrar as Queries e Scripts que possuem um padrão de utilização dentro das demandas da célula de negócios, saiba que isso tem como função primordial, te ajudar para que sua curva de aprendizado seja a menor possível, no entanto vá estudando e praticando o uso desses Scripts e Queries de acordo com seu ritmo. Ainda falando sobre os principais componentes que nossa célula de TI-Desenvolvimento e Negócios utiliza são: Formulários, Documentos, processo e Workflow. Vamos falar de forma resumida sobre cada uma delas e um passo a passo geral na construção de cada instância delas,   
 
+#### Sempre lembra visse, que esses componentes eles "podem conversar
 ------------------------------------------------------------------------
 
 ## Sem mais conversa, Hands on!!!
