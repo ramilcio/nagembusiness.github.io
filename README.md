@@ -6,7 +6,7 @@
 
 # Indepentende se voce é do time da pizza com ketchup ou sem ketchup, ou do arroz com passas ou sem passas, vamos nos desesperar com calma😱 
 
-## Vamo simbora para uma breve explicação sobre o que tu mermo irá encontrar nesse repositório, mas resumindo é uma documentação focada e enxuta sobre o uso dos componentes e as queries e scripts padrões utilizados para criar as instancias.
+## Vamo simbora para uma breve explicação sobre o que tu mermo irá encontrar nesse repositório, mas resumindo é uma documentação focada e enxuta sobre o uso dos componentes e as queries e scripts que são padrões ou que no futuro tem potencial para serem reutilizados em novos projetos assim como também para criar as instancias.
 
 #### Sabendo que aqui você irá encontrar as Queries e Scripts que possuem um padrão de utilização dentro das demandas da célula de negócios, saiba que isso tem como função primordial, te ajudar para que sua curva de aprendizado seja a menor possível, no entanto vá estudando e praticando o uso desses Scripts e Queries de acordo com seu ritmo. Ainda falando sobre os principais componentes que nossa célula de TI-Desenvolvimento e Negócios utiliza são: Formulários, Documentos, processo e Workflow. Vamos falar de forma resumida sobre cada uma delas e um passo a passo geral na construção de cada instância delas,   
 
