@@ -8,13 +8,12 @@
 
 ------------------------------------------------------------------------
 
-## <center>Sem mais conversa, Hands on!!!</center>  
+## Sem mais conversa, Hands on!!!
+
 ### Vamos começar pelo componente SE Documento
 ### Mas antes vamos ver como chegar até esse tal componente.
 ![image](https://user-images.githubusercontent.com/95197081/172160451-3928045b-1273-43d1-9c82-f38c269d7492.png)
 
-### Após seleção, clicar em configuração e selecionar documento
-![image](https://user-images.githubusercontent.com/95197081/172161668-22a651e0-b820-4de6-bb70-b46c76da7281.png)
 
 
 
