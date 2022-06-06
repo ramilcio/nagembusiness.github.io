@@ -15,15 +15,27 @@
 ## Sem mais conversa, Hands on!!! ☕
 
 ### Mas antes vamos ver como chegar até esse tal componente.
-### Tela inicial
+<br>
+
+<p align="center">
+    Tela inicial
+</p>
+
 ![image](https://user-images.githubusercontent.com/95197081/172181919-2be5cd5f-bff3-4381-b5be-7487267007c1.png)
 > #### usuário: [incluir seu CPF sem as máscaras]
 > #### senha: [Qualquer senha de sua vontade]
-
 ------------------------------------------------------------------------
+<p align="center">
+    Tela inicial após o acesso com sucesso! ✔️
+</p>
 
-### Tela inicial após o acesso com sucess! ✔️
 ![image](https://user-images.githubusercontent.com/95197081/172185071-3fa4770d-e42f-4215-a338-32fd7e3c569b.png)
+------------------------------------------------------------------------
+<p align="center">
+    Selecionando os componentes
+</p>
 
+![image](https://user-images.githubusercontent.com/95197081/172187610-7a0f6806-935f-482c-9cba-6726018a9363.png)
+------------------------------------------------------------------------
 
 
