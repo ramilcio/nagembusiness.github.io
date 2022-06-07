@@ -183,7 +183,31 @@ FIM
 RETORNO VERDADEIRO 
 ```
 
+> ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: GDC - Gerenciamento de Certificados Digitais
+- Fieldset: Dados do Solicitante
+- Campo   : Acionista
+- Botão   : Não possui
+- Descrição de comportamento: O script retorna o nome dos acionistas no respectivo campo (do tipo "valor fechado")
+
+```
+vlista1 = VALORCAMPO('gdc';'nmacionista')
+
+vValidacao = 1
+
+x = ACAO('';'';'';'';'';'';'';'';'validegestor';vValidacao)
+
+
+SE(vlista1 = '') 
+
+     x = ACAO('';'';'gestorfinanceiro';'';'gestorfinanceiro';'';'';'';'') 
+
+SENAO 
+     x = ACAO('';'';'acionistas';'gestorfinanceiro';'acionistas';'';'gestorfinanceiro';'';'')  
+FIM  
+RETORNO VERDADEIRO 
+```
 
 
 
