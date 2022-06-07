@@ -158,7 +158,30 @@ FIM
 x = IMPORTARPLANILHAPARAGRID('rlcimportclasse';'numavalia=A,nmclasse=B,contacontb=C';VERDADEIRO;'2';'';'')
 ```
 
+> ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: GDC - Gerenciamento de Certificados Digitais
+- Fieldset: Dados do Solicitante
+- Campo   : Gestor Financeiro
+- Botão   : Não possui
+- Descrição de comportamento: O script retorna o nome dos gestores financeiros no respectivo campo (do tipo "valor fechado")
+
+```
+vlista = VALORCAMPO('gdc';'nmgestorfinan') 
+
+vValidacao = 0
+
+x = ACAO('';'';'';'';'';'';'';'';'validegestor';vValidacao)
+
+SE(vlista = '') 
+
+     x = ACAO('';'';'acionistas';'';'acionistas';'';'';'';'') 
+
+SENAO 
+     x = ACAO('';'';'gestorfinanceiro';'acionistas';'gestorfinanceiro';'';'acionistas';'';'')  
+FIM  
+RETORNO VERDADEIRO 
+```
 
 
 
