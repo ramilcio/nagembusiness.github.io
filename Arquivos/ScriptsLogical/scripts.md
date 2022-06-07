@@ -253,4 +253,108 @@ RETORNO VERDADEIRO
 
 > ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: Gestao_Linha - Gestão da Linha Telefônica Corporativa
+- Fieldset: Dados do Solicitante
+- Campo   : Gigabyte
+- Botão   : Sem botão
+- Descrição de comportamento: Selecionar o certificado que não esteja previamente listado
+
+> Regra de Entrada
+
+>> 
+```
+vFuncao = VALORCAMPO('gestaolinhatel';'funcaosolic')
+
+
+SE (vFuncao = 'Diretor')
+
+     vGiga = '20 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+SENAO
+
+SE ((vFuncao = 'Gerente') OU (vFuncao = 'Coordenador') OU (vFuncao = 'SubGerente'))
+
+     vGiga = '10 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+SENAO
+
+SE ((vFuncao = 'Supervisor') OU (vFuncao = 'Auditor') OU (vFuncao = 'Desenvolvedor'))
+
+     vGiga = '5 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+
+SENAO
+
+SE ((vFuncao = 'Executivo') OU (vFuncao = 'Analista'))
+
+     vGiga = '3 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+SENAO
+
+SE ((vFuncao = 'Encarregado') OU (vFuncao = 'Assistente') OU (vFuncao = 'Auxiliar') OU (vFuncao = 'Comprador') OU (vFuncao = 'Motorista') OU (vFuncao = 'Mecânico') OU (vFuncao = 'Office Boy') OU (vFuncao = 'Tecnico') OU (vFuncao = 'Vendedor'))
+
+     vGiga = '1 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+
+FIM
+FIM
+FIM
+FIM
+FIM
+```
+> Regra de Saída
+
+```
+vFuncao = VALORCAMPO('gestaolinhatel';'funcaosolic')
+
+
+SE (vFuncao = 'Diretor')
+
+     vGiga = '20 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+SENAO
+
+SE ((vFuncao = 'Gerente') OU (vFuncao = 'Coordenador') OU (vFuncao = 'SubGerente'))
+
+     vGiga = '10 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+SENAO
+
+SE ((vFuncao = 'Supervisor') OU (vFuncao = 'Auditor') OU (vFuncao = 'Desenvolvedor'))
+
+     vGiga = '5 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+
+SENAO
+
+SE ((vFuncao = 'Executivo') OU (vFuncao = 'Analista'))
+
+     vGiga = '3 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+SENAO
+
+SE ((vFuncao = 'Encarregado') OU (vFuncao = 'Assistente') OU (vFuncao = 'Auxiliar') OU (vFuncao = 'Comprador') OU (vFuncao = 'Motorista') OU (vFuncao = 'Mecânico') OU (vFuncao = 'Office Boy') OU (vFuncao = 'Tecnico') OU (vFuncao = 'Vendedor'))
+
+     vGiga = '1 GB'
+     x = ACAO('';'';'';'';'';'';'';'';'gigabyte';vGiga)
+
+
+FIM
+FIM
+FIM
+FIM
+FIM
+```
+> ---------------------------------------------------------------------------------------------------------------
+
+
 
