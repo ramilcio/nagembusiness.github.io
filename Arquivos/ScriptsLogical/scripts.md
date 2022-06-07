@@ -147,5 +147,31 @@ SENAO
 FIM
 ```
 
+> ---------------------------------------------------------------------------------------------------------------
+
+- Formulário: Importarclassavalia - Importar Classe de Avaliação - Cadastro de Material 
+- Fieldset: Não possui
+- Botão   : Importar
+- descrição de comportamento: Script de importar uma planilha e "jogar" os resultados na Grid
+
+```
+x = IMPORTARPLANILHAPARAGRID('rlcimportclasse';'numavalia=A,nmclasse=B,contacontb=C';VERDADEIRO;'2';'';'')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
