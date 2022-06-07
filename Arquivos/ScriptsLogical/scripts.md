@@ -198,7 +198,6 @@ vValidacao = 1
 
 x = ACAO('';'';'';'';'';'';'';'';'validegestor';vValidacao)
 
-
 SE(vlista1 = '') 
 
      x = ACAO('';'';'gestorfinanceiro';'';'gestorfinanceiro';'';'';'';'') 
@@ -209,11 +208,19 @@ FIM
 RETORNO VERDADEIRO 
 ```
 
+> ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: GDC - Gerenciamento de Certificados Digitais
+- Fieldset: Selecionar Tipo de Certificado
+- Campo   : Radiobutton Pessoa Física
+- Botão   : Radiobutton Pessoa Física (sim repetir apenas para separar a informação e enfatizar a diferença)
+- Descrição de comportamento: Validar e atribuir os campos quando selecionado Pessoa Física
 
+```
+EXE = EXECUTESCRIPT('EXEVERPESSOA';'Clique')
+```
 
-
-
+> ---------------------------------------------------------------------------------------------------------------
 
 
 
