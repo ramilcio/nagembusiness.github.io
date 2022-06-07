@@ -222,10 +222,35 @@ EXE = EXECUTESCRIPT('EXEVERPESSOA';'Clique')
 
 > ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: GDC - Gerenciamento de Certificados Digitais
+- Fieldset: Selecionar Tipo de Certificado
+- Campo   : Radiobutton Pessoa Jurídica
+- Botão   : Radiobutton Pessoa Jurídica (sim repetir apenas para separar a informação e enfatizar a diferença)
+- Descrição de comportamento: Validar e atribuir os campos quando selecionado Pessoa Jurídica
 
+```
+EXE = EXECUTESCRIPT('EXEVERPESSOA';'Clique')
+```
 
+> ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: GDC - Gerenciamento de Certificados Digitais
+- Fieldset: Pessoa Física/Jurídica 
+- Campo   : Selecione o Certificado (tipo lista de valores fechados)
+- Botão   : Selecione o Certificado (sim repetir apenas para separar a informação e enfatizar a diferença)
+- Descrição de comportamento: Selecionar o certificado que não esteja previamente listado
 
+```
+vlista = VALORLISTA('gdc';'rlccertipj';'tipocertificpj') 
 
+SE(vlista = '') 
+     x = ACAO('outrocertpjurid';'';'';'outropjuridica';'outrocertpjurid';'outropjuridica';'outrocertpjurid,outropjuridica';'';'') 
+SENAO 
+     x = ACAO('outrocertpjurid';'';'rlccertipj';'outropjuridica';'outrocertpjurid';'outropjuridica';'outrocertpjurid';'';'') 
+FIM  
+RETORNO VERDADEIRO 
+```
+
+> ---------------------------------------------------------------------------------------------------------------
 
 
