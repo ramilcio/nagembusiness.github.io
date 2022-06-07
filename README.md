@@ -4,7 +4,8 @@
 # Fique à Vontade, Fique Nagem. 😁✌️
 # Seja bem vindo(a)!!!
 
-# Indepentende se voce é do time da pizza com ketchup ou sem ketchup, ou do arroz com passas ou sem passas, vamos nos desesperar com calma😱 
+# Indepentende se voce é do time da pizza com ketchup ou sem ketchup, ou do arroz com passas ou sem passas, você não será esculhambado(a)
+# Entã vamos nos desesperar com calma😱 
 
 ## Vamo simbora para uma breve explicação sobre o que tu mermo irá encontrar nesse repositório, mas resumindo é uma documentação focada e enxuta sobre o uso dos componentes e as queries e scripts que são padrões ou que no futuro tem potencial para serem reutilizados em novos projetos assim como também para criar as instancias.
 
