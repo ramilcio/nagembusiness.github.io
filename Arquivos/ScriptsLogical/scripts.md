@@ -257,7 +257,7 @@ RETORNO VERDADEIRO
 - Fieldset: Dados da Compra
 - Campo   : Tipo Material
 - Botão   : Tipo Material (sim repetir apenas para separar a informação e enfatizar a diferença)
-- Descrição de comportamento: Selecionar o certificado que não esteja previamente listado
+- Descrição de comportamento: Diferencia se o tipo material é produto ou serviço, a depender do que for selecionar, ele ativa ou desabilita os campos
 
 ```
 // Método Alteração da Lista de Valores - Tipo Material 
