@@ -253,4 +253,47 @@ RETORNO VERDADEIRO
 
 > ---------------------------------------------------------------------------------------------------------------
 
+- Formulário: CadastroMaterialConsumoCompras - Solicitação de Cadastro de Material para Consumo - Compras
+- Fieldset: Dados da Compra
+- Campo   : Tipo Material
+- Botão   : Tipo Material (sim repetir apenas para separar a informação e enfatizar a diferença)
+- Descrição de comportamento: Selecionar o certificado que não esteja previamente listado
+
+```
+// Método Alteração da Lista de Valores - Tipo Material 
+
+// Método do botão btnConfigurarVisualizacaoPorTipoMaterial - Configurar Visualização por Tipo Material
+x=EXECUTESCRIPT('btnConfigurarVisualizacaoPorTipoMaterial';'Clique')
+
+/*
+// Constantes
+cTIPOMATERIAL_PRODUTO = 'Produto'
+cTIPOMATERIAL_SERVICO = 'Serviço'
+// Recuperando valores da lista de Tipo de Material
+tipoMaterial = VALORLISTA('cadmatconsumo';'idtipomaterial1';'tipomaterial')
+
+
+SE ((tipoMaterial = cTIPOMATERIAL_PRODUTO) OU (tipoMaterial = ''))
+    // Configura - Dados Contábeis
+    x=ACAO('idclasseavalprd';'idclasseavalsvc';'';'';'idclasseavalprd';'idclasseavalsvc';'';'';'')
+
+    // Configura - Dados Fiscais
+    x=ACAO('ncm,idclassiffiscal,idcategoriacfop,idorigemmateria';'';'';'';'';'';'';'';'')
+FIM
+
+SE (tipoMaterial = cTIPOMATERIAL_SERVICO)
+    // Configura - Dados Contábeis
+    x=ACAO('idclasseavalsvc';'idclasseavalprd';'';'';'idclasseavalsvc';'idclasseavalprd';'';'';'')
+
+    // Configura - Dados Fiscais
+    x=ACAO('';'ncm,idclassiffiscal,idcategoriacfop,idorigemmateria';'';'ncm,idclassiffiscal,idcategoriacfop,idorigemmateria';'';'';'';'';'')
+FIM
+*/
+```
+> ---------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
