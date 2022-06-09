@@ -1,5 +1,17 @@
 # Criando notificação em eventos de mensagens
 
+## Informações de identificação 
+| Equipe   |      Cargo      |
+|----------|:-------------:|
+| Rodrigo Firmino |  Product Owner |
+| Mateus Laranjeiras |    QA   |
+| Francisco Gomes | Desenvolvedor |
+
+|Data de Criação| Versão |
+|----------|:-------------:|
+|09-06-2022|1.0|
+
+
 ## ⚠️⚠️ Apenas para enfatizar que tal comportamento aqui é apenas um esboço geral e sua lógica poderá ser replicada em projetos futuros ⚠️⚠️
 <br>
 
