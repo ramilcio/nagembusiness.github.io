@@ -11,6 +11,8 @@
 |----------|:-------------:|
 |09-06-2022|1.0|
 
+> -----------------------------------------------------------------------------------------------
+
 
 ## ⚠️⚠️ Apenas para enfatizar que tal comportamento aqui é apenas um esboço geral e sua lógica poderá ser replicada em projetos futuros ⚠️⚠️
 <br>
