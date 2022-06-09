@@ -9,3 +9,9 @@
 #### <center> Chegando até o fluxograma, você deverá clicar duas vezes no evento de mensagem conforme mostra a figura acima. </center> 
 #### tendo que centralizar ainda...a página continua em desenvolvimento     
 
+
+#### Haverá mudanças ainda nesta página, mas já estão sendo inclusas imagens do passo a passo para tal ação
+![image](https://user-images.githubusercontent.com/95197081/172936171-194266e2-201b-4cce-b26c-67f42efde7bc.png)
+<br>
+#### (Em desenvolvimento) 
+
