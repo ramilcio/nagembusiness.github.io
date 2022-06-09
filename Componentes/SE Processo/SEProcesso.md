@@ -13,5 +13,6 @@
 #### Haverá mudanças ainda nesta página, mas já estão sendo inclusas imagens do passo a passo para tal ação
 ![image](https://user-images.githubusercontent.com/95197081/172936171-194266e2-201b-4cce-b26c-67f42efde7bc.png)
 <br>
-#### (Em desenvolvimento) 
+#### página continua em desenvolvimento
+
 
