@@ -80,6 +80,9 @@
 
 > --------------------------------------------------------
 
-### E por aqui foi isso, o resto CASO PRECISE aprender, vem o com tempo, mas aqui será muito difícil mexer em algo, fica tranquilis
+<p align = "center">
+    <strong> E por aqui foi isso, o resto CASO PRECISE aprender, vem o com tempo, mas aqui será muito difícil mexer em algo, fica tranquilis </strong> 
+</p>
+
 
 ![](https://media4.giphy.com/media/1jkVi22T6iUrQJUNqk/giphy.gif?cid=ecf05e474sfdic6fz1dplsq0yg4wux3352rrc2mmpdk2dsuy&rid=giphy.gif&ct=g)
