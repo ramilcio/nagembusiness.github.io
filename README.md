@@ -1,8 +1,9 @@
 ![image](https://user-images.githubusercontent.com/95197081/172171762-6fd2eb61-3ebf-4cd2-8929-3d5456df7ea3.png)
 
+![](https://media4.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif?cid=ecf05e47lz63vsqy4qc2lnn2jb7rdsq4toq5rgwit23id4n7&rid=giphy.gif&ct=g)
+
 # Dale bença, chega mais!!!! 🎉👨‍💻👩‍💻
 # Fique à Vontade, Fique Nagem. 😁✌️
-# Seja bem vindo(a)!!!
 
 # Indepentende se voce é do time da pizza com ketchup ou sem ketchup, ou do arroz com passas ou sem passas, você não será esculhambado(a)
 # Então vamos nos desesperar com calma😱 
