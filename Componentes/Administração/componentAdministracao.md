@@ -2,7 +2,7 @@
 <br>
 
 
-![](https://media4.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=ecf05e471mo7aoa5jk1f7drua5po89ke3c99kr2ywk0bfc1p&rid=giphy.gif&ct=g)
+![](https://media1.giphy.com/media/qqtvGYCjDNwac/giphy.gif?cid=ecf05e47kb11i7j7yo2kpihlj380sh4qxmwh1f43gqu2c47c&rid=giphy.gif&ct=g)
 
 <br>
 
@@ -28,8 +28,8 @@
 > Perfil de Permissão (AD065)
 <br>
 <br>
-<br>
-<br>
+
+> ------------------------------------------------------
 
 <p align = "center">
     <strong> "Ramo" começar adicionando um novo perfil, beleza?! Partiu!! </strong> 
@@ -47,6 +47,8 @@
 
 <br>
 <br>
+
+> --------------------------------------------------------
 
 <p align = "center">
     <strong> E agora é o seguinte, nessa funcionalidade muito raramente você vai precisar mexer, mas é bom ficar ciente que possa acontecer algo que precise saber e                alterar algo </strong> 
