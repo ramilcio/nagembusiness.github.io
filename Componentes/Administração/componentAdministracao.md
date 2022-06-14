@@ -67,4 +67,14 @@
 
 ![image](https://user-images.githubusercontent.com/95197081/173665859-232caadb-6148-4064-8dc0-d7fad0aad97b.png)
 
+<br>
+<br>
+
+> --------------------------------------------------------
+
+<p align = "center">
+    <strong> E por "fim" essa funcionalidade também, vai na mesma linha, só para título que um dia poderá modificar algo, mas que diz respeito ao papel funcional dos colaboradores. </strong> 
+</p>
+
+![image](https://user-images.githubusercontent.com/95197081/173667294-eeea6cf6-1180-4c84-a99f-3b4d99c1b3f3.png)
 
