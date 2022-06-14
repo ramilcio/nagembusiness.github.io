@@ -56,5 +56,15 @@
 
 ![image](https://user-images.githubusercontent.com/95197081/173606169-68e63dc7-4d2e-497d-8856-da0cc7e2c458.png)
 
+<br>
+<br>
+
+> --------------------------------------------------------
+
+<p align = "center">
+    <strong> Para essa funcionalidade, segue o pensamento da anterior, muito raramente irá mexer, mas é bom ficar ciente de que pode um dia ter que atuar nisso para alterar algo. </strong> 
+</p>
+
+![image](https://user-images.githubusercontent.com/95197081/173665859-232caadb-6148-4064-8dc0-d7fad0aad97b.png)
 
 
