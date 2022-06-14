@@ -13,9 +13,37 @@
 
 > ------------------------------------------------------------------------------------------------------------
 
+<br>
 
 
+<p align = "center">
+    <strong> Acessando a funcionalidade de grupo de acesso, é mais a título de conhecimento mesmo, para saber o nível de acesso de acordo com o grupo. blz bença?!           </strong> 
+</p>
+
+<br>
 
 
+<p align = "center">
+    <strong> Menu do componente e para acessar tal funcionalidade, ir em configurações e clicar em "Grupo de acesso"  </strong> 
+</p>
 
+![image](https://user-images.githubusercontent.com/95197081/173678720-69dd7709-e510-4157-ac28-b01961504905.png)
+
+<br>
+<br>
+
+<p align = "center">
+    <strong> Tela da funcionalidade após clicar em "Grupo de acesso".  </strong> 
+</p>
+
+![image](https://user-images.githubusercontent.com/95197081/173679191-9e0d83f1-38cc-40d9-8eb9-6a5aa3f5b633.png)
+
+> ------------------------------------------------------------------------------------------------------------
+
+<br>
+<br>
+
+<p align = "center">
+    <strong> ⚠️⚠️⚠️ E nesse componente finalizamos por aqui mesmo. bem agora se prepara que a "brincadeira" vai começa  ⚠️⚠️⚠️  </strong> 
+</p>
 
