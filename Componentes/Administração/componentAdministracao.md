@@ -1,6 +1,11 @@
 # Componente de Administração
 <br>
 
+
+![](https://media4.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=ecf05e471mo7aoa5jk1f7drua5po89ke3c99kr2ywk0bfc1p&rid=giphy.gif&ct=g)
+
+<br>
+
 ## Passos iniciais com o componente administração.
 
 ![image](https://user-images.githubusercontent.com/95197081/173100235-dde53ef8-394e-4651-974c-703115a37fff.png)
