@@ -17,6 +17,16 @@
 
 > Perfil de Permissão (AD065)
 
+<p align="center">
+    Adicionando um novo usuário
+</p>
+
+![image](https://user-images.githubusercontent.com/95197081/173576206-b71557ec-2407-4d77-8d05-0a3c9202eda8.png)
+
+#### E irá aparecer uma nova janela, a partir disso você terá que preencher todos os dados dela, uma boa forma de adquirir essas informações sobre o usuário novo é indo nas informações que consta no email corporativo dele, tais como matrícula, email, setor e informações mais cruciais sobre o novo colaborador(a)
+
+
+
 
 
 
