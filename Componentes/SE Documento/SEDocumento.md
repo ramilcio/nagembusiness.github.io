@@ -4,7 +4,7 @@
 ![](https://media3.giphy.com/media/3orifaQEOagjYJ1EXe/giphy.gif?cid=ecf05e47ejare0ki7hcvoa98a363taec2mgcenp94os90j9g&rid=giphy.gif&ct=g)
 
 <p align = "center">
-    <strong> Embora essa animação reflita esse sentimento de Homer... kkkkkkkk, brincadeira, mentira, tô brincando não.... 😬😬 </strong> 
+    <strong> Embora essa animação reflita nosso sentimento também (pois é Homer, te entendememos)... kkkkkkkk, brincadeira, mentira, tô brincando não.... 😬😬 </strong> 
 </p>
 
 <p align = "center">
