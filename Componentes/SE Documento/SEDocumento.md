@@ -23,15 +23,22 @@
 
 > -----------------------------------------------------------------
 
+
 <br>
 <br>
 <p align = "center">
-    <strong> (Criar título) </strong> 
+    <strong> Acessando a funcionalidade "categoria", que é uma das primeiras que você precisa conhecer </strong> 
 </p>
 
-![image](https://user-images.githubusercontent.com/95197081/172167160-c97688b0-c92b-4118-a432-31998793a92f.png)
+<br>
+<br>
 
-### Sempre lembre, que para cada nova demanda, faz-se necessário criar uma nova categoria no componente, isso visando a organização e distribuição das informações que serão inseridas nela, para que 
+![image](https://user-images.githubusercontent.com/95197081/173838481-37348571-60cd-48b9-a5d4-121c4084d022.png)
+ 
+<p align = "center">
+    <strong> Sempre lembre que para cada nova demanda, faz-se necessário criar uma nova categoria no componente, isso visando a organização e distribuição das                      informações que serão inseridas nela </strong> 
+</p>
+
 
 
 
