@@ -40,6 +40,17 @@
 </p>
 
 > -----------------------------------------------------------------
+<br>
+<br>
+
+<p align = "center">
+    <strong> "Ramo" agora começar primeiramente com a criação de um documento com revisão </strong> 
+</p>
+
+<dl>
+<dt>1066</dt>
+<dd> September. Harald Hardrada, King of Norway, invades England</dd>
+</dl>
 
 
 
