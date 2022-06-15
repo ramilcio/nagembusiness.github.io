@@ -48,8 +48,21 @@
 </p>
 
 <dl>
-<dt>1066</dt>
-<dd> September. Harald Hardrada, King of Norway, invades England</dd>
+<dt>1º Passo</dt>
+<dd> Criar documento de revisão </dd>
+
+<dt>2º Passo</dt>
+<dd> A elaboração do documento </dd>
+
+<dt>3º Passo</dt>
+<dd> Etapa de consenso</dd>
+
+<dt>4º Passo</dt>
+<dd> Aprovação</dd>
+
+<dt>5º Passo</dt>
+<dd> Homologação </dd>
+    
 </dl>
 
 
