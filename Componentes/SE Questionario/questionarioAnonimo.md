@@ -6,9 +6,9 @@
 </p>
 
 
-<p align = "center">
-    <strong> ![](https://media4.giphy.com/media/m3lszq64i1k2s/giphy.gif?cid=ecf05e47viq6014zt571tyfhz5ki9ohm8b3j3vnprl5epne6&rid=giphy.gif&ct=g) </strong>
-</p>
+<strong> ![](https://media4.giphy.com/media/yNs2a0jRkYxy6191B2/giphy.gif?cid=ecf05e47po9vsvklm84dponobrdiu80o5mt3x8kz7d0vms98&rid=giphy.gif&ct=g) </strong>
+
+
 
 
 <p align = "center">
@@ -35,4 +35,9 @@
 
 ## Bença, vamos acessar o menu dos componentes e selecionar Questionário, dale!! 
 
-![image](https://user-images.githubusercontent.com/95197081/175938989-c8674d4d-2c19-4b8b-a419-f3932def1f17.png)
+![image](https://user-images.githubusercontent.com/95197081/175953692-73e42f69-c212-4223-9bd1-06a7792c341a.png)
+
+> -------------------------------------
+
+
+![image](https://user-images.githubusercontent.com/95197081/175954023-e32442cc-821b-4a51-b080-e18d85f25740.png)
