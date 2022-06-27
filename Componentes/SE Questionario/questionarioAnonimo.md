@@ -5,7 +5,11 @@
     <strong> A primeira tarefa que vamos ter aqui é de criar um questionário anônimo </strong> 
 </p>
 
-https://media4.giphy.com/media/m3lszq64i1k2s/giphy.gif?cid=ecf05e47viq6014zt571tyfhz5ki9ohm8b3j3vnprl5epne6&rid=giphy.gif&ct=g
+
+<p align = "center">
+    <strong> ![](https://media4.giphy.com/media/m3lszq64i1k2s/giphy.gif?cid=ecf05e47viq6014zt571tyfhz5ki9ohm8b3j3vnprl5epne6&rid=giphy.gif&ct=g) </strong>
+</p>
+
 
 <p align = "center">
     <strong> Simbora?! Partiu?! </strong> 
