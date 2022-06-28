@@ -39,6 +39,18 @@
 
 ![image](https://user-images.githubusercontent.com/95197081/176191587-dd7d4fc0-2ab1-4b0f-b1be-065b7d30396b.png)
 
+> ---------------------------------------------------
+<br>
+
+<p align = "center">
+    <strong> Sem arrudeio já dale para pesquisar, procura pela pasta do financeiro e depois "clicai-vos" no ATO e já aplica na bolsa de valores! </strong> 
+</p>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/95197081/176195598-233bf84f-ade9-4a9a-b547-fbc823484bba.png)
+
+
 
 
 
