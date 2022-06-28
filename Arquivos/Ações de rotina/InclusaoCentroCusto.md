@@ -5,6 +5,7 @@
 ## E aí bença...daleeeee!!! vamos agora para um passo a passo de como "arrente" inclui um novo centro de custo !!!   
 
 > ---------------------------------------------------
+<br>
 
 <p align = "center">
     <strong> QUEBRA NA EMENDA!! </strong> 
@@ -17,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/95197081/176182768-9c07e26f-13a4-43ac-87f7-473b876d3882.png)
 
 > ---------------------------------------------------
+<br>
 
 <p align = "center">
     <strong> Depois vai no menu de componentes e clica no componente Formulário </strong> 
@@ -27,6 +29,16 @@
 ![image](https://user-images.githubusercontent.com/95197081/176188763-bc790f32-a7ff-4dd4-b163-677f2c091500.png)
 
 > ---------------------------------------------------
+<br>
+
+<p align = "center">
+    <strong> Aí tu vai "timbora" para a aba de (tabela-cadastro) beleza?! </strong> 
+</p>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/95197081/176191587-dd7d4fc0-2ab1-4b0f-b1be-065b7d30396b.png)
+
 
 
 
