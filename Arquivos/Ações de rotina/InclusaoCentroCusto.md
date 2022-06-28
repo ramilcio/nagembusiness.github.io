@@ -80,5 +80,8 @@
 <br>
 
 > ---------------------------------------------------
+<p align = "center">
+    <strong>Iapôi, agora vai tomar um cafezinho para relaxar! tmj! </strong> 
+</p>
 
-https://media4.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif?cid=ecf05e47rjyn4l1562fcb8wwz0m5m7vh78bsh5myu0jb21dw&rid=giphy.gif&ct=g
+![](https://media4.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif?cid=ecf05e47rjyn4l1562fcb8wwz0m5m7vh78bsh5myu0jb21dw&rid=giphy.gif&ct=g)
