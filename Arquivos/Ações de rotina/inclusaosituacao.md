@@ -7,7 +7,7 @@
 </p>
 
 <p align = "center">
-    <strong> Primeiro de tudo, vá para o ambiente de PRODUÇÃO e inclua suas credenciais </strong> 
+    <strong> Primeiro de tudo, vá para o ambiente de TESTE e inclua suas credenciais </strong> 
 </p>
 
 ![image]()
