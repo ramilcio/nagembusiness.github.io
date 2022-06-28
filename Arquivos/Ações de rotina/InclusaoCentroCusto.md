@@ -50,6 +50,16 @@
 
 ![image](https://user-images.githubusercontent.com/95197081/176195598-233bf84f-ade9-4a9a-b547-fbc823484bba.png)
 
+> ---------------------------------------------------
+<br>
+
+<p align = "center">
+    <strong> então tu que tá lendo isso animal, já procura pelo identificador "tabimportcent" visse?! </strong> 
+</p>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/95197081/176196698-60d77392-3a4e-4fcc-81c8-5f8d37a40c83.png)
 
 
 
