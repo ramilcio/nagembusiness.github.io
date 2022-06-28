@@ -61,6 +61,24 @@
 
 ![image](https://user-images.githubusercontent.com/95197081/176196698-60d77392-3a4e-4fcc-81c8-5f8d37a40c83.png)
 
+> ---------------------------------------------------
 
+<br>
 
+<p align = "center">
+    <strong> Na imagem acima, clica duas vezes em cima que vai abrir essa janela mostrada na imagem abaixo </strong> 
+</p>
 
+<br>
+
+![image](https://user-images.githubusercontent.com/95197081/176198710-a1122593-f5bf-4dfc-8eda-63b8e0ee9b13.png)
+
+<p align = "center">
+    <strong> E aí no menu lateral (à direita) você decide se precisa incluir, editar ou apagar. </strong> 
+</p>
+
+<br>
+
+> ---------------------------------------------------
+
+https://media4.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif?cid=ecf05e47rjyn4l1562fcb8wwz0m5m7vh78bsh5myu0jb21dw&rid=giphy.gif&ct=g
