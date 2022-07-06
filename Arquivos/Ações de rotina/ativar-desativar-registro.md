@@ -22,5 +22,9 @@
 
 ### ir nos campos de (situação) e (bloqueio) e clicar nos asteriscos e realizar a pesquisa
 
+### Ao encontrar o usuário, apenas selecionar o usuário, clicar na aba (mais) e não o sinal de (+), clicar em alterar situação e clicar em "ok"
+
+![image](https://user-images.githubusercontent.com/95197081/177581188-c34a6932-dde3-44d4-904c-becd66b7f042.png)
+
 
 
