@@ -26,4 +26,9 @@
 
 ### ⚠️ Lembrando sempre em criar nomenclaturas claras e referentes as demandas do projeto ⚠️
 
+### -----------------------------------------------------------------------------------------------------------------------------
 
+### Sempre que for necessário associar em um artefato de lista de valores fechados, é preciso referenciar uma fonte de dados criadas (um conjunto de dados) para ela
+![image](https://user-images.githubusercontent.com/95197081/182149539-af1e4fee-b902-4ca8-9444-f7cf4a09856b.png)
+
+### -----------------------------------------------------------------------------------------------------------------------------
