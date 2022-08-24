@@ -79,3 +79,9 @@
 
 
 ## Criação das tabelas com valores em listas fechadas
+
+
+
+
+
+
